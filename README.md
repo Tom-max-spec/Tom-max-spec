@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tom-max-spec
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on macOS
+- 💞️ I’m looking to work in Google
 - 📫 How to reach me @mw_g@outlook.com
 
 <!---
